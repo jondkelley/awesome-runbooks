@@ -1,5 +1,5 @@
 # awesome-runbooks
-Just various runbooks I find to be awesome or useful
+Just various runbooks I find to be awesome and useful
 
 # Kubernetes
 
