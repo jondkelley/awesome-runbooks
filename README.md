@@ -12,6 +12,8 @@ Just various runbooks I find to be awesome and useful
 ### Velero
 
 * [Velero CLI install with Minio](https://tellesnobrega.github.io/velero-demo/)
+* [Schedule reference](https://mcs.mail.ru/help/en_US/k8s-backups/k8s-auto-backups)
+
 # Docker
 
 ## Registries
