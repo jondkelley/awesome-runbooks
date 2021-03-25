@@ -19,3 +19,8 @@ Just various runbooks I find to be awesome and useful
 ## Registries
 
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-18-04
+
+## Minio
+
+* https://github.com/mmm1513/pyminio
+* https://linuxhint.com/installing_minio_ubuntu/
