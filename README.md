@@ -9,6 +9,9 @@ Just various runbooks I find to be awesome and useful
 
 * https://www.mirantis.com/blog/how-to-deploy-spinnaker-on-kubernetes-a-quick-and-dirty-guide/
 
+### Velero
+
+* [Velero CLI install with Minio](https://tellesnobrega.github.io/velero-demo/)
 # Docker
 
 ## Registries
