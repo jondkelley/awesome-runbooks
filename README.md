@@ -8,6 +8,7 @@ Just various runbooks I find to be awesome and useful
 ### Spinnaker
 
 * https://www.mirantis.com/blog/how-to-deploy-spinnaker-on-kubernetes-a-quick-and-dirty-guide/
+* http://theblasfrompas.blogspot.com/2019/02/exposing-spinnaker-ui-endpoint-from.html
 
 ### Velero
 
